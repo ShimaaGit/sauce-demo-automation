@@ -1,0 +1,44 @@
+{
+  "Data": [
+    {
+      "users": "1",
+      "email": "standard_user",
+      "password": "secret_sauce"
+    },
+    {
+      "users": "2",
+      "email": "standard_user",
+      "password": "shimaa"
+    },
+    {
+      "users": "3",
+      "email": "Shimaa",
+      "password": "secret_sauce"
+    },
+    {
+      "users": "4",
+      "email": "problem_user",
+      "password": "secret_sauce"
+    },
+    {
+      "users": "5",
+      "email": "performance_glitch_user",
+      "password": "secret_sauce"
+    },
+    {
+      "users": "6",
+      "email": "visual_user",
+      "password": "secret_sauce"
+    },
+    {
+      "users": "7",
+      "email": "locked_out_user",
+      "password": "secret_sauce"
+    }
+
+  ],
+  "messages": {
+    "expectedSuccessLoginMessage": "Welcome Back",
+    "failed login": "dummy message"
+  }
+}
