@@ -42,6 +42,7 @@ public class ProductTest extends testBase {
         softAssert.assertTrue( Ascending , "Products are not sorted by name A-Z.");
     }
 
+
     @Test
     public void sortNamesZtoA() {
         productPage.selectSortOption("Name (Z to A)");
